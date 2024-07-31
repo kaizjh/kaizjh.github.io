@@ -9,14 +9,11 @@ categories: document
 #小类配置
 tag: 教程
 #设置文章置顶
-topping: true
+topping: false
 ---
 
 * content
 {:toc}
-
-![测试1]({{ '/styles/images/jiezishu.jpg' | prepend: site.baseurl  }})
-[测试2](#)
 
 
 我是正文。我是正文。我是正文。我是正文。我是正文。我是正文。

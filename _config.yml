@@ -6,10 +6,10 @@ url:
 resume_site:
 github: https://github.com/kaizjh/
 baseurl: 
-description: Less is more!
-meta_description: 个人博客
-motto: 博观约取 | 知行合一
-banner: 学而不思则罔，思而不学则殆。
+description: 描述
+meta_description: meta描述
+motto: 格言
+banner: 横幅
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/

@@ -8,17 +8,8 @@ permalink: /books/
 {:toc}
 
 
-2016书单
+2024书单
 -----------------------------------------------------------------
 
-+ 《Think in java 4th》
-+ 《鸟哥的Linux私房菜基础学习篇-第三版》
-+ 《重构》
-+ 《Getting real》
-+ 《深入JVM虚拟机》
-+ 《Head first设计模式》
-+ 《算法(第四版)》
-+ 《Maven实战》
-+ 《HTTP协议详解》
-+ 《TCP/IP协议详解-卷一》
-+ 《阿弥陀佛么么哒》
++ [《CS61A教材ComposingPrograms》](https://www.composingprograms.com/)
++ [《Python机器学习基础教程》](https://weread.qq.com/web/bookDetail/b0d32910718ff601b0d0aee)
