@@ -4,7 +4,7 @@ title:  如何使用LessOrMore这个Jekyll模版
 date:   2016-08-27 01:08:00 +0800
 categories: 测试
 tag: jekyll
-topping: true
+topping: false
 ---
 
 * content
@@ -23,7 +23,7 @@ topping: true
 ====================================
 
 下载							{#Download}
-------------------------------------
+  ------------------------------------
 
 使用git从[LessOrMore](https://github.com/luoyan35714/LessOrMore.git)主页下载项目
 

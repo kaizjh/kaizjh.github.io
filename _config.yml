@@ -1,15 +1,15 @@
 # Site settings
-name: 一篇博客
+name: 博观约取name
 email: Irvingzjh@gmail.com
 author: Kai Zheng
 url:
 resume_site:
 github: https://github.com/kaizjh/
 baseurl: 
-description: 描述
+description: 一个记录我的CS自学之旅的博客网站
 meta_description: meta描述
-motto: 格言
-banner: 横幅
+motto: 知行合一motto
+banner: 吾生也有涯，而知无涯，以有涯随也无涯，殆矣。banner
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
